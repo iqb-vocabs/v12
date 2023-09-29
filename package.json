@@ -1,0 +1,22 @@
+{
+  "name": "iqb-vocabs_v12",
+  "version": "0.1.0",
+  "description": "Bildungsstandards Deustch Primar 2022 ",
+  "scripts": {
+    "run_id": "addidcsv",
+    "run_ttl": "csv2ttl"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iqb-vocabs/v12.git"
+  },
+  "author": "IQB",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iqb-vocabs/v12/issues"
+  },
+  "homepage": "https://github.com/iqb-vocabs/v12#readme",
+  "devDependencies": {
+    "@iqb/csv2ttl": "^0.6.1"
+  }
+}
