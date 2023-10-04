@@ -1230,7 +1230,7 @@ n1:c9p
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "2022 Deutsch Primar - Kompetenzbereiche des Faches Deutsch"@de;
+	dct:title "Bildungsstandards Deutsch Primar 2022 - Kompetenzbereiche des Faches Deutsch"@de;
 	dct:description "Die Bildungsstandards im Fach Deutsch sind in fünf Kompetenzbereiche gegliedert, die in komplexer Weise miteinander verzahnt sind. Damit knüpfen sie an die Tradition bisheriger Bildungsstandards im Fach Deutsch an, werden aber weiterentwickelt: In den Kompetenzbereichen „Sprechen und Zuhören“, „Schreiben“ und „Lesen“ werden sowohl produktive als auch rezeptive Kompetenzen ausgewiesen. Diese prozessbezogenen Kompetenzen sind fachbezogen wie überfachlich bedeutsam. Die Kompetenzbereiche „Sich mit Texten und anderen Medien auseinandersetzen“ und „Sprache und Sprachgebrauch untersuchen“ weisen die fachspezifischen Domänen aus, in denen die prozessbezogenen Kompetenzen verbindlich konkretisiert sind. Über die in den Standards beschriebenen Kompetenzen erweitern die Schülerinnen und Schüler ihre Sprachhandlungskompetenz, wodurch die Grundlagen für fachliches und überfachliches sprachliches Handeln geschaffen werden. "@de;
 	skos:hasTopConcept
 		n1:r2f,

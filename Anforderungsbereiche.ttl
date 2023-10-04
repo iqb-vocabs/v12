@@ -24,7 +24,7 @@ n1:z6h
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "2022 Deutsch Primar - Anforderungsbereiche"@de;
+	dct:title "Bildungsstandards Deutsch Primar 2022 - Anforderungsbereiche"@de;
 	skos:hasTopConcept
 		n1:z7p,
 		n1:g5g,
