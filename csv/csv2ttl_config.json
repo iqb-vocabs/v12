@@ -19,6 +19,8 @@
             "value": "Anforderungsbereiche"
           }
         ],
+        "filenameSource": "a1_Anforderungsbereiche.csv",
+        "filenameTarget": "a1_Anforderungsbereiche.ttl",
         "description": [
           {
             "lang": "de",
@@ -34,6 +36,8 @@
             "value": "Kompetenzbereiche des Faches Deutsch"
           }
         ],
+        "filenameSource": "s1_Kompetenzbereiche_des_Faches_Deutsch.csv",
+        "filenameTarget": "s1_Kompetenzbereiche_des_Faches_Deutsch.ttl",
         "description": [
           {
             "lang": "de",
