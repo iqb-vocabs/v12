@@ -1218,6 +1218,12 @@ n1:y2s
 		n1:z4v,
 		n1:r6f,
 		n1:b6b.
+n1:x2r
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "5.3";
+	skos:broader n1:c9p;
+	skos:prefLabel "extra"@de.
 n1:c9p
 	 a skos:Concept;
 	skos:inScheme n0:;
@@ -1226,7 +1232,8 @@ n1:c9p
 	skos:prefLabel "Sprache und Sprachgebrauch untersuchen"@de;
 	skos:narrower 
 		n1:d6q,
-		n1:y2s.
+		n1:y2s,
+		n1:x2r.
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
